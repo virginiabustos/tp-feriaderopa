@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Asset&family=Comic+Neue:ital,wght@0,400;0,700&family=Fontdiner+Swanky&display=swap');
+
+body {
+    font-family: "comic neue";
+    font-weight: 400;
+    text-align: justify;
+    background-color: #ffe5ec;
+    color: #ff8fab;
+}
+
+h1 {
+    font-family: "Fontdiner Swanky";
+    color: #fb6f92;
+}
+
+h2,
+h3 {
+    color: #ff97b7;
+}
+
+h2 {
+    font-family: "asset";
+}
+
+#semi {
+    font-weight: 700;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+#titulo {
+    text-align: left;
+}
